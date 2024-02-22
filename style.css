@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+
+      
+h1{
+    font-size: 2rem;
+    color:purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration:underline;
+}
+.para{
+    font-size: 1rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:blanchedalmond;
+    font-size: x-large;
+    font-style: italic;
+    text-align:justify;  
+}
